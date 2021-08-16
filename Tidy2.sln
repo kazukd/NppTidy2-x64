@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tidy2", "Tidy2\Tidy2.vcxproj", "{40820076-62C6-45E4-BEFA-3E23F9DA0CC9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A3EA53A3-86BB-4D0A-B999-D1EC9411DDD4} = {A3EA53A3-86BB-4D0A-B999-D1EC9411DDD4}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tidylib", "tidy-html5\build\msvc2010\tidylib.vcxproj", "{A3EA53A3-86BB-4D0A-B999-D1EC9411DDD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40820076-62C6-45E4-BEFA-3E23F9DA0CC9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{40820076-62C6-45E4-BEFA-3E23F9DA0CC9}.Debug|Win32.Build.0 = Debug|Win32
+		{40820076-62C6-45E4-BEFA-3E23F9DA0CC9}.Debug|x64.ActiveCfg = Debug|x64
+		{40820076-62C6-45E4-BEFA-3E23F9DA0CC9}.Debug|x64.Build.0 = Debug|x64
+		{40820076-62C6-45E4-BEFA-3E23F9DA0CC9}.Release|Win32.ActiveCfg = Release|Win32
+		{40820076-62C6-45E4-BEFA-3E23F9DA0CC9}.Release|Win32.Build.0 = Release|Win32
+		{40820076-62C6-45E4-BEFA-3E23F9DA0CC9}.Release|x64.ActiveCfg = Release|x64
+		{40820076-62C6-45E4-BEFA-3E23F9DA0CC9}.Release|x64.Build.0 = Release|x64
+		{A3EA53A3-86BB-4D0A-B999-D1EC9411DDD4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A3EA53A3-86BB-4D0A-B999-D1EC9411DDD4}.Debug|Win32.Build.0 = Debug|Win32
+		{A3EA53A3-86BB-4D0A-B999-D1EC9411DDD4}.Debug|x64.ActiveCfg = Debug|x64
+		{A3EA53A3-86BB-4D0A-B999-D1EC9411DDD4}.Debug|x64.Build.0 = Debug|x64
+		{A3EA53A3-86BB-4D0A-B999-D1EC9411DDD4}.Release|Win32.ActiveCfg = Release|Win32
+		{A3EA53A3-86BB-4D0A-B999-D1EC9411DDD4}.Release|Win32.Build.0 = Release|Win32
+		{A3EA53A3-86BB-4D0A-B999-D1EC9411DDD4}.Release|x64.ActiveCfg = Release|x64
+		{A3EA53A3-86BB-4D0A-B999-D1EC9411DDD4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12EE0A56-8AC9-4825-A872-D4D9D89EBEFF}
+	EndGlobalSection
+EndGlobal
