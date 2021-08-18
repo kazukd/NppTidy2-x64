@@ -18,9 +18,10 @@ I tried to convert the plugin due to my curiosity, even if I don't know C++. I h
 ## Donation (Please support for me)
 I am a student, almost finish the first year,  but I have to earn for tution fee or cost of living for next year because I don't have enough finance for studying. I always work weekends up to 20 hours (my visa status allows only 20 hours /week). Also, my laptop computre is old which I bought it in 2012, nine years ago, so sometimes freezing. I want to more focus to study. If you like my project, please suppourts for me.
 
-https://paypal.me/kazukd
+[Donation](https://paypal.me/kazukd)
 
-
+## Download
+   
 ## Installation
 1. Make the new folder which name is 'Tidy2', under your Notepad++\plugins folder. 
 2. Just copy the Tidy2.dll to the new folder and doc folder.
@@ -46,8 +47,8 @@ If Notepad++ is running duaring it is copying, it requires restarting Notepad++.
 3. Then hole document is tidied.
 
 Default config is for the XML document.
-If you do not like the result, read the 'How to customize' or [GitHub Pages](https://pages.github.com/)
-my recommendation configuration.
+If you do not like the result, read [How to customize](https://github.com/kazukd/NppTidy2-x64/blob/main/README.md#how-to-customize) or 
+[My recommendation configuration](https://github.com/kazukd/NppTidy2-x64/blob/main/README.md#my-recommendation-configration).
 
 ## How to customize
 1. Select 'Plugins'-'Tidy2-x64'-'Edit (config ?)' (? is 1 or 2 or 3)
@@ -58,15 +59,30 @@ my recommendation configuration.
 It can be seen config option menu when select 'Plugins'-'Tidy2-x64'-'Show Config Help'
 
 ## My recommendation configuration
+
+### output-xml or output-html
 Default config is for the XML document.
 1. Open 'Edit (config ?)' file
 2. Delete output-xml: yes
 3. Add    output-html: yes
 
 output-xml and output-html have pros and cons. You can decide which is better for you.
+I sometimes like output-xml but sometimes like output-html. ( I want to mix both features in the future.) 
 
-If you use 
+### drop-empty-elements
+If you use tag it is like '<i class="fa fa-bars"></i>', you should add below setting.
+```
+drop-empty-elements: no
+```
+That prevents empty tag is not deleted.
 
+### tidy-mark
+This plugin adds head tag with some information.
+add
+```
+tidy-mark: no
+```
+That prevents to add some information. However, If <html> or <head> are missing in original document, it is added <html><head><body>.
 
 ## Issuu
 You may not compile my source due to my lack of skill in C++. I have just learned C++ for three days by myself for this project.  Luckily, the first version was a good result with no warning, but the next version has many warnings. I had backup, but I can't fix it.
