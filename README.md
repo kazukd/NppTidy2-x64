@@ -19,7 +19,7 @@ I tried to convert the plugin due to my needs and my curiosity, even if I don't 
 I am a student, almost finishing the first year,  but I have to earn a tuition fee or cost of living for next year because I don't have enough finance for studying. The tuition fee is $24,000 per year, and I need a bank statement which is $20,000 for next year evidence to the government. I always work weekends up to 20 hours (my visa status allows only 20 hours /week). Also, my laptop computer is old which I bought it in 2012, nine years ago, so sometimes freezing. I want to more focus on study and my projects. If you like my projects, please support me.
 
 
-[Donation](https://paypal.me/kazukd)
+[Donate](https://paypal.me/kazukd)
 
 ## Download
    
@@ -104,6 +104,6 @@ I would like to change tidy way because sometimes the result is not suitable for
 ## Future
 I have some ideas for improving this plugin. If I have time, I want to update.
 
-[Donation](https://paypal.me/kazukd)
+[Donate](https://paypal.me/kazukd)
 Thank you.
 
