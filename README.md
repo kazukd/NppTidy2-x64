@@ -24,8 +24,14 @@ I am a student, almost finishing the first year,  but I have to earn a tuition f
 ## Download
    
 ## Installation
+### Copy dll file
 1. Make the new folder which name is 'Tidy2', under your Notepad++\plugins folder. 
-2. Just copy the Tidy2.dll to the new folder and doc folder.
+2. Just copy the Tidy2.dll to the new folder.
+
+### Copy tidy-html5 documents
+1. Download  http://github.com/w3c/tidy-html5 and extract the file.
+2. Make the new folder which name is 'doc', under 'Tidy2' which is created above work 'Copy dll file No.1 '
+3. Copy quickref.html and tidy.css into 'doc' folder.
 
 For example, my environment is below the file tree.
 ```
