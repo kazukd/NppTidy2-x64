@@ -34,10 +34,15 @@ If Notepad++ is running duaring it is copying, it requires restarting Notepad++.
 2. Slect 'Plugins'-'Tidy2-x64'-'Tidy (config ?)' (? is 1 or 2 or 3)
 3. Then hole document is tidied.
 
+default config is for xml document.
+If you don't like result, read the 'How to customize' or[GitHub Pages](https://pages.github.com/)
+my recommendation configration.
+
 ## How to custmize
 1. Select 'Plugins'-'Tidy2-x64'-'Edit (config ?)' (? is 1 or 2 or 3)
 2. Then new tab is opened in Notepad++. Tab name is 'Tidy?.cfg' ( ? is 1 or 2 or 3)
 3. Add or replace config command
 4. It can be seen config option menu when select 'Plugins'-'Tidy2-x64'-'Show Config Help'
 
+## My recommendation configration
 
