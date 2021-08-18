@@ -16,7 +16,7 @@ I was looking for plugins or other editors.  I found the 'Tidy2' plugin, but tha
 I tried to convert the plugin due to my needs and my curiosity, even if I don't know C++. I enjoyed this project though result was not perfect. I hope that my work will help you.
 
 ## Donation (Please support me)
-I am a student, almost finishing the first year,  but I have to earn a tuition fee or cost of living for next year because I don't have enough finance for studying. The tuition fee is $24,000 per year, and I need a bank statement which is $20,000 for evidence for the government. I always work weekends up to 20 hours (my visa status allows only 20 hours /week). Also, my laptop computer is old which I bought it in 2012, nine years ago, so sometimes freezing. I want to more focus on study and my projects. If you like my projects, please support me.
+I am a student, almost finishing the first year,  but I have to earn a tuition fee or cost of living for next year because I don't have enough finance for studying. The tuition fee is $24,000 per year, and I need a bank statement which is $20,000 for next year evidence to the government. I always work weekends up to 20 hours (my visa status allows only 20 hours /week). Also, my laptop computer is old which I bought it in 2012, nine years ago, so sometimes freezing. I want to more focus on study and my projects. If you like my projects, please support me.
 
 
 [Donation](https://paypal.me/kazukd)
@@ -75,7 +75,9 @@ If you use tag it is like ``` <i class="fa fa-bars"></i> ```, you should add bel
 ```
 drop-empty-elements: no
 ```
-That prevents empty tag is not deleted.
+That prevents empty tag is deleted. The empty tag means like this ```<div></div>``` or ```<b></b>```. If ```<div>test</div>``` or ```<b>Code</b>```, these are not empty.
+
+``` <i class="fa fa-bars"></i> ``` is tag for hamburger menu. I think many people use that.
 
 ### tidy-mark
 This plugin adds head tag with some information.
@@ -85,11 +87,23 @@ tidy-mark: no
 ```
 That prevents to add some information. However, If ```<html>``` or ```<head>``` are missing in original document, it is added ```<html> ,<head> or <body>```.
 
+### Others
+I add below setting. If you like my setting, please add them into your config file.
+```
+preserve-entities: 1
+output-encoding: no
+input-encoding: no
+```
+
 ## Issuu
-You may not compile my source due to my lack of skill in C++. I have just learned C++ for three days by myself for this project.  Luckily, the first version was good with no warning, but the next version has many warnings. I had backup, but I can't fix it.
-One error has occurred when compiled because the author of the 32bit version used the copy command in Visual studio. The command is copying dll file another folder. I could not figure out where to write the command in the Visual studio.
+You may not compile my source due to my lack of skills in C++. I have just learned C++ for three days by myself for this project.  Luckily, the first version was good with no warning, but the next version has many warnings. I had backup, but I can't fix it.
+One error has occurred always when compiled because the author of the 32bit version used the copy command in Visual studio. The command is copying dll file another folder. I could not figure out where to write the command in the Visual studio.
+
+I would like to change tidy way because sometimes the result is not suitable for me. This plugin change hole document. If the document is long, I may not notice wrong tiding.
 
 ## Future
 I have some ideas for improving this plugin. If I have time, I want to update.
 
+[Donation](https://paypal.me/kazukd)
+Thank you.
 
