@@ -2,7 +2,7 @@
 This plugin provides feature which is tidying HTML code quickly.
 
 Original source is 'HTML Tidy 2 Plugin for Notepad++' from https://github.com/bruderstein/NppTidy2.
-That is for 32bit version so we can not use Notepad++ latest version.
+That is for 32bit version so we can not use it on the Notepad++ latest version.
 
 Also this plugin uses tidy-html5 from http://github.com/w3c/tidy-html5.
 Thank you for sharing excelent code.
