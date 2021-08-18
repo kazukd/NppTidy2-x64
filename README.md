@@ -48,7 +48,7 @@ If Notepad++ is running duaring it is copying, it requires restarting Notepad++.
 
 Default config is for the XML document.
 If you do not like the result, read [How to customize](https://github.com/kazukd/NppTidy2-x64/blob/main/README.md#how-to-customize) or 
-[My recommendation configuration](https://github.com/kazukd/NppTidy2-x64/blob/main/README.md#my-recommendation-configration).
+[My recommendation configuration](https://github.com/kazukd/NppTidy2-x64/blob/main/README.md#my-recommendation-configuration) .
 
 ## How to customize
 1. Select 'Plugins'-'Tidy2-x64'-'Edit (config ?)' (? is 1 or 2 or 3)
