@@ -15,8 +15,9 @@ I am a student of Bachelor of Information Technology. I have learned the fundame
 I was looking for plugins or other editors.  I found the 'Tidy2' plugin, but that is for the 32bit version. I could not use it for Notepad++ latest version. I was searching the 64bit of 'Tidy2'. However, I couldn't, and I noticed other people are looking for the same things.
 I tried to convert the plugin due to my needs and my curiosity, even if I don't know C++. I enjoyed this project though result was not perfect. I hope that my work will help you.
 
-## Donation (Please support for me)
-I am a student, almost finish the first year,  but I have to earn for tution fee or cost of living for next year because I don't have enough finance for studying. I always work weekends up to 20 hours (my visa status allows only 20 hours /week). Also, my laptop computre is old which I bought it in 2012, nine years ago, so sometimes freezing. I want to more focus to study and my own projects. If you like my projects, please suppourts for me.
+## Donation (Please support me)
+I am a student, almost finishing the first year,  but I have to earn a tuition fee or cost of living for next year because I don't have enough finance for studying. The tuition fee is $24,000 per year, and I need a bank statement which is $20,000 for evidence for the government. I always work weekends up to 20 hours (my visa status allows only 20 hours /week). Also, my laptop computer is old which I bought it in 2012, nine years ago, so sometimes freezing. I want to more focus on study and my projects. If you like my projects, please support me.
+
 
 [Donation](https://paypal.me/kazukd)
 
@@ -47,7 +48,7 @@ If Notepad++ is running duaring it is copying, it requires restarting Notepad++.
 3. Then hole document is tidied.
 
 Default config is for the XML document.
-If you do not like the result, read [How to customize](https://github.com/kazukd/NppTidy2-x64/blob/main/README.md#how-to-customize) or 
+If you do not like the result, you can customize tidy way. Please read [How to customize](https://github.com/kazukd/NppTidy2-x64/blob/main/README.md#how-to-customize) or 
 [My recommendation configuration](https://github.com/kazukd/NppTidy2-x64/blob/main/README.md#my-recommendation-configuration) .
 
 ## How to customize
@@ -85,10 +86,10 @@ tidy-mark: no
 That prevents to add some information. However, If ```<html>``` or ```<head>``` are missing in original document, it is added ```<html> ,<head> or <body>```.
 
 ## Issuu
-You may not compile my source due to my lack of skill in C++. I have just learned C++ for three days by myself for this project.  Luckily, the first version was a good result with no warning, but the next version has many warnings. I had backup, but I can't fix it.
+You may not compile my source due to my lack of skill in C++. I have just learned C++ for three days by myself for this project.  Luckily, the first version was good with no warning, but the next version has many warnings. I had backup, but I can't fix it.
 One error has occurred when compiled because the author of the 32bit version used the copy command in Visual studio. The command is copying dll file another folder. I could not figure out where to write the command in the Visual studio.
 
 ## Future
-I have some idea for improving this plugin. If I have a time, I want to update.
+I have some ideas for improving this plugin. If I have time, I want to update.
 
 
