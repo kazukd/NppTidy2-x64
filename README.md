@@ -70,7 +70,7 @@ output-xml and output-html have pros and cons. You can decide which is better fo
 I sometimes like output-xml but sometimes like output-html. ( I want to mix both features in the future.) 
 
 ### drop-empty-elements
-If you use tag it is like '<i class="fa fa-bars"></i>', you should add below setting.
+If you use tag it is like ``` <i class="fa fa-bars"></i> ```, you should add below setting.
 ```
 drop-empty-elements: no
 ```
@@ -82,7 +82,7 @@ add
 ```
 tidy-mark: no
 ```
-That prevents to add some information. However, If <html> or <head> are missing in original document, it is added <html><head><body>.
+That prevents to add some information. However, If ```<html>``` or ```<head>``` are missing in original document, it is added ```<html> ,<head> or <body>```.
 
 ## Issuu
 You may not compile my source due to my lack of skill in C++. I have just learned C++ for three days by myself for this project.  Luckily, the first version was a good result with no warning, but the next version has many warnings. I had backup, but I can't fix it.
