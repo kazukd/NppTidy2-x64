@@ -13,10 +13,10 @@ The features of the plugin are same as the 32bit version.
 ## Why converted this plugin
 I am a student of Bachelor of Information Technology. I have learned the fundamental of Web Development. I used Notepad++ for coding HTML. Sometimes I needed to tidy my HTML document.
 I was looking for plugins or other editors.  I found the 'Tidy2' plugin, but that is for the 32bit version. I could not use it for Notepad++ latest version. I was searching the 64bit of 'Tidy2'. However, I couldn't, and I noticed other people are looking for the same things.
-I tried to convert the plugin due to my curiosity, even if I don't know C++. I have just little C# knowledge, I have learned the fundamental of C# in my course. The knowledge helped me for this project. I hope that my work will help you.
+I tried to convert the plugin due to my needs and my curiosity, even if I don't know C++. I enjoyed this project though result was not perfect. I hope that my work will help you.
 
 ## Donation (Please support for me)
-I am a student, almost finish the first year,  but I have to earn for tution fee or cost of living for next year because I don't have enough finance for studying. I always work weekends up to 20 hours (my visa status allows only 20 hours /week). Also, my laptop computre is old which I bought it in 2012, nine years ago, so sometimes freezing. I want to more focus to study. If you like my project, please suppourts for me.
+I am a student, almost finish the first year,  but I have to earn for tution fee or cost of living for next year because I don't have enough finance for studying. I always work weekends up to 20 hours (my visa status allows only 20 hours /week). Also, my laptop computre is old which I bought it in 2012, nine years ago, so sometimes freezing. I want to more focus to study and my own projects. If you like my projects, please suppourts for me.
 
 [Donation](https://paypal.me/kazukd)
 
