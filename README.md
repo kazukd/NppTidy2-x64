@@ -10,25 +10,25 @@ Thank you for sharing excelent code.
 I've just convert from 32bit version to 64bit version.
 The features of the plugin is same as 32bit version.
 
-##Installation
+## Installation
 Meke the new folder which name is 'Tidy2' under your Notepad++\plugins folder.
 Just copy the Tidy2.dll to the new folder and doc folder.
 
 For example, my environment is blow file tree.
-
+```
 C:\Program Files\Notepad++\plugins\Tidy2
 │   LICENSE
 │   Tidy2.dll
 └───doc
     │   quickref.html
     │   tidy.css
-
-##Run
+```
+## Run
 After copying, run Notepad++.
 It can be seen 'Tidy2-x64' in Plugins menu of Notepad++.
 
 If Notepad++ is running duaring it is copying, it requires restarting Notepad++.
 
-##How to use
+## How to use
 
 your Notepad++\plugins directory. Ideally add the doc folder to Notepad++\plugins directory too, this will mean you have the correct documentation, and the "Show Config Help" option will show the documentation that applies to your version (rather than simply the latest on the web)
