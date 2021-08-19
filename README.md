@@ -6,10 +6,10 @@ That is for the 32bit version, so we can not use it on the Notepad++ latest vers
 
 Also, this plugin uses tidy-html5 from http://github.com/w3c/tidy-html5 (Copyright (c) 1998-2003 World Wide Web Consortium).
 
-Thank you for sharing excelent code.
+They are excellent code. Thank you for sharing.
 
 I have just converted from a 32bit version to a 64bit version.
-The features of the plugin are same as the origin version.
+The features of the plugin are the same as the original version.
 
 ## Why converted this plugin
 I am a student of Bachelor of Information Technology. I have learned the fundamental of Web Development. I used Notepad++ for coding HTML. Sometimes I needed to tidy my HTML document.
