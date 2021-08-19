@@ -1,10 +1,11 @@
-# HTML Tidy 2 Plugin for Notepad++ 64bit version 
-This plugin provides a feature that is tidying HTML code quickly.
+# Tidy 2 Plugin for Notepad++ 64bit version 
+This plugin provides a feature that is tidying HTML or XML code quickly.
 
 Original source is 'HTML Tidy 2 Plugin for Notepad++' from https://github.com/bruderstein/NppTidy2.
 That is for the 32bit version, so we can not use it on the Notepad++ latest version.
 
 Also, this plugin uses tidy-html5 from http://github.com/w3c/tidy-html5 (Copyright (c) 1998-2003 World Wide Web Consortium).
+
 Thank you for sharing excelent code.
 
 I have just converted from a 32bit version to a 64bit version.
@@ -22,6 +23,9 @@ I am a student, almost finishing the first year in 2021,  but I have to earn a t
 [Donate](https://paypal.me/kazukd)
 
 ## Download
+Tidy2.dll file Version 0.1.0.0  Using tidy-html version 5.8.0 on 17th July 2021
+http://github.com/w3c/tidy-html5
+
    
 ## Installation
 ### Copy dll file
@@ -91,7 +95,7 @@ add
 ```
 tidy-mark: no
 ```
-That prevents to add some information. However, If ```<html>``` or ```<head>``` are missing in original document, it is added ```<html> ,<head> or <body>```.
+That prevents to add some information. However, If ```<html>``` or ```<head>``` are missing in original document, it will be added ```<html> ,<head> or <body>```.
 
 ### Others
 I add below setting. If you like my setting, please add them into your config file.
@@ -102,10 +106,10 @@ input-encoding: no
 ```
 
 ## Issuu
-You may not compile my source due to my lack of skills in C++. I have just learned C++ for three days by myself for this project.  Luckily, the first version was good with no warning, but the next version has many warnings. I had backup, but I can't fix it.
+You may not compile my source due to my lack of skills in C++. I have just learned C++ for one week by myself for this project.  Luckily, the first version was good with no warning, but the next version has many warnings. I had backup, but I can't fix it.
 One error has occurred always when compiled because the author of the 32bit version used the copy command in Visual studio. The command is copying dll file another folder. I could not figure out where to write the command in the Visual studio.
 
-I would like to change tidy way because sometimes the result is not suitable for me. This plugin change hole document. If the document is long, I may not notice wrong tiding.
+I would like to change tidy way because sometimes the result is not suitable for me. This plugin change hole document, I am thinking that the function is replacing selected parts.
 
 ## Future
 I have some ideas for improving this plugin. If I have time, I try to update.
