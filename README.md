@@ -23,7 +23,7 @@ I am a student, almost finishing the first year in 2021,  but I have to earn a t
 [Donate](https://paypal.me/kazukd)
 
 ## Download
-Version 0.1.0.0 Using tidy-html version 5.8.0 on 17th July 2021  
+Version 0.1.0.0 Using tidy-html(version 5.8.0 on 17th July 2021)  
 [Tidy2.zip](https://github.com/kazukd/NppTidy2-x64/blob/main/Tidy2.zip) This file include tidy-html5 documents. It is easy to install.
 
 ### If you want to separately, please download below file.
@@ -33,7 +33,7 @@ http://github.com/w3c/tidy-html5
 
    
 ## Installation
-If you download Tidy2.zip and extract the file, just copy Tidy2 folder under your Notepad++\plugins folder.
+If you download [Tidy2.zip](https://github.com/kazukd/NppTidy2-x64/blob/main/Tidy2.zip), then extract the file, just copy Tidy2 folder under your Notepad++\plugins folder.
 
 ### another way
 If you use source code and compiled, please follow below steps.
