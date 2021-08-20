@@ -119,7 +119,7 @@ input-encoding: no
 You may not compile my source due to my lack of skills in C++. I have just learned C++ for one week by myself for this project.  Luckily, the first version was good with no warning, but the next version has many warnings. I had backup, but I can't fix it.
 One error has occurred always when compiled because the author of the original version used the copy command in Visual studio. The command is copying dll file another folder. I could not find where to write the command in the Visual studio.
 
-I would like to change tidy way because sometimes the result is not suitable for me. This plugin change hole document, I am thinking that the function is replacing selected parts.
+I would like to change tidy way because sometimes the result is not suitable for me. This plugin changes hole document, I am thinking that the function is replacing selected parts.
 
 ## Future
 I have some ideas for improving this plugin. If I have time, I try to update.
