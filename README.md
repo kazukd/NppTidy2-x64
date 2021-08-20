@@ -12,7 +12,7 @@ I have just converted from a 32bit version to a 64bit version.
 The features of the plugin are the same as the original version.
 
 ## Why converted this plugin
-I am a student of Bachelor of Information Technology. I have learned the fundamental of Web Development. I used Notepad++ for coding HTML. Sometimes I needed to tidy my HTML document.
+I am a student of Bachelor of Information Technology. I have learned the Web Development. I use Notepad++ for coding HTML. Sometimes I need to tidy my HTML document.
 I was looking for plugins or other editors.  I found the 'Tidy2' plugin, but that is for the 32bit version. I could not use it for Notepad++ latest version. I was searching the 64bit of 'Tidy2'. However, I couldn't, and I noticed other people are looking for the same things.
 I tried to convert the plugin due to my needs and my curiosity, even if I don't know C++. I enjoyed this project though result was not perfect. I hope that my work will help you.
 
