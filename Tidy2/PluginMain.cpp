@@ -11,7 +11,7 @@
 
 
 /* Info for Notepad++ */
-CONST TCHAR TCHAR_PLUGIN_NAME[]	= _T(PLUGIN_NAME);
+CONST TCHAR TCHAR_PLUGIN_NAME[]	= _T("Tidy2"); //PLUGIN_NAME
 const int	nbFunc			= 10;
 FuncItem	funcItem[nbFunc];
 
