@@ -26,7 +26,7 @@ I am a student, almost finishing the first year in 2021,  but I have to earn a t
 Version 0.1.0.0 Using tidy-html(version 5.8.0 on 17th July 2021)  
 [Tidy2.zip](https://github.com/kazukd/NppTidy2-x64/blob/main/Tidy2.zip) This file include tidy-html5 documents. It is easy to install.
 
-### If you want to separately, please download below file.
+### If you want to install separately, please download below file.
 [Tidy2.dll](https://github.com/kazukd/NppTidy2-x64/blob/main/Tidy2.dll) file Version 0.1.0.0  Using tidy-html version 5.8.0 on 17th July 2021  
 http://github.com/w3c/tidy-html5  
  
