@@ -23,7 +23,7 @@ I am a student, almost finishing the first year in 2021,  but I have to earn a t
 [Donate](https://paypal.me/kazukd)
 
 ## Download
-Tidy2.dll file Version 0.1.0.0  Using tidy-html version 5.8.0 on 17th July 2021
+[Tidy2.dll](https://github.com/kazukd/NppTidy2-x64/blob/main/Tidy2.dll) file Version 0.1.0.0  Using tidy-html version 5.8.0 on 17th July 2021
 http://github.com/w3c/tidy-html5
 
    
