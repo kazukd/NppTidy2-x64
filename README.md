@@ -28,7 +28,7 @@ Version 0.1.0.0 Using tidy-html (version 5.8.0 on 17th July 2021)
 
 ### If you want to install separately, please download below file.
 [Tidy2.dll](https://github.com/kazukd/NppTidy2-x64/blob/main/Tidy2.dll) file Version 0.1.0.0  Using tidy-html version 5.8.0 on 17th July 2021  
-http://github.com/w3c/tidy-html5  
+[tidy-html5](https://github.com/htacg/tidy-html5/tree/0cf6d998431a61f1bd630e7883d4d43df4ad8ccc)  
  
 
    
@@ -43,7 +43,7 @@ If you use source code and compiled, please follow below steps.
 2. Just copy the Tidy2.dll to the new folder.
 
 #### Copy tidy-html5 documents
-1. Download  http://github.com/w3c/tidy-html5 and extract the file.
+1. Download  [tidy-html5](https://github.com/htacg/tidy-html5/tree/0cf6d998431a61f1bd630e7883d4d43df4ad8ccc) and extract the file.
 2. Make the new folder which name is 'doc', under 'Tidy2' which is created above work 'Copy dll file No.1 '
 3. Copy quickref.html and tidy.css into 'doc' folder.
 
