@@ -28,7 +28,7 @@ Version 0.1.0.0 Using tidy-html (version 5.8.0 on 17th July 2021)
 
 ### If you want to install separately, please download below file.
 [Tidy2.dll](https://github.com/kazukd/NppTidy2-x64/blob/main/Tidy2.dll) file Version 0.1.0.0  Using tidy-html version 5.8.0 on 17th July 2021  
-http://github.com/w3c/tidy-html5  
+[tidy-html5](https://github.com/htacg/tidy-html5/tree/0cf6d998431a61f1bd630e7883d4d43df4ad8ccc)  
  
 
    
