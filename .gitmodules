@@ -1,4 +1,3 @@
-
 [submodule "tidy-html5"]
 	path = tidy-html5
 	url = https://github.com/htacg/tidy-html5/tree/0cf6d998431a61f1bd630e7883d4d43df4ad8ccc
