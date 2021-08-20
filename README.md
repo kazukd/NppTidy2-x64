@@ -23,16 +23,26 @@ I am a student, almost finishing the first year in 2021,  but I have to earn a t
 [Donate](https://paypal.me/kazukd)
 
 ## Download
-[Tidy2.dll](https://github.com/kazukd/NppTidy2-x64/blob/main/Tidy2.dll) file Version 0.1.0.0  Using tidy-html version 5.8.0 on 17th July 2021
-http://github.com/w3c/tidy-html5
+Version 0.1.0.0 Using tidy-html version 5.8.0 on 17th July 2021  
+[Tidy2.zip] This file include tidy-html5 documents. It is easy to install.
+
+### If you want to separately, please download below file.
+[Tidy2.dll](https://github.com/kazukd/NppTidy2-x64/blob/main/Tidy2.dll) file Version 0.1.0.0  Using tidy-html version 5.8.0 on 17th July 2021  
+http://github.com/w3c/tidy-html5  
+ 
 
    
 ## Installation
-### Copy dll file
+If you download Tidy2.zip and extract the file, just copy Tidy2 folder under your Notepad++\plugins folder.
+
+### another way
+If you use source code and compiled, please follow below steps.
+
+#### Copy dll file
 1. Make the new folder which name is 'Tidy2', under your Notepad++\plugins folder. 
 2. Just copy the Tidy2.dll to the new folder.
 
-### Copy tidy-html5 documents
+#### Copy tidy-html5 documents
 1. Download  http://github.com/w3c/tidy-html5 and extract the file.
 2. Make the new folder which name is 'doc', under 'Tidy2' which is created above work 'Copy dll file No.1 '
 3. Copy quickref.html and tidy.css into 'doc' folder.
