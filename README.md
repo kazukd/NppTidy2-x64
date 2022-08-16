@@ -17,7 +17,7 @@ I was looking for plugins or other editors.  I found the 'Tidy2' plugin, but tha
 I tried to convert the plugin due to my needs and my curiosity, even if I don't know C++. I enjoyed this project though result was not perfect. I hope that my work will help you.
 
 ## Donation (Please support me)
-I am a student, almost finishing the first year in 2021,  but I have to earn a tuition fee or cost of living until end of September in 2021 because I don't have enough finance for studying next year in 2022. The tuition fee is $24,000 per year, and I need a bank statement which is $20,000 for next year evidence to the government. I always work weekends up to 20 hours (my visa status allows only 20 hours per week). Also, my laptop computer is old which I bought it in 2012, nine years ago, so sometimes freezing. I want to more focus on study and my projects. If you like my projects, please support me.
+I am a student, almost finishing the second year in 2022,  but I have to earn a tuition fee or cost of living until end of September in 2022 because I don't have enough finance for studying next year in 2023. The tuition fee is $24,000 per year, and I need a bank statement which is $20,000 for next year evidence to the government. I always work weekends up to 20 hours (my visa status allows only 20 hours per week). Also, my laptop computer is old which I bought it in 2012, nine years ago, so sometimes freezing. I want to more focus on study and my projects. If you like my projects, please support me.
 
 
 [Donate](https://paypal.me/kazukd)
