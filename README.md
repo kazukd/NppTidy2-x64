@@ -116,7 +116,7 @@ output-encoding: no
 input-encoding: no
 ```
 
-## Issuu
+## Issue
 You may not compile my source due to my lack of skills in C++. I have just learned C++ for one week by myself for this project.  Luckily, the first version was good with no warning, but the next version has many warnings. I had a backup, but I can't fix it.
 One error has occurred always when compiled because the author of the original version used the copy command in Visual Studio. The command is copying dll file to another folder. I could not find where to write the command in Visual Studio.
 
@@ -126,6 +126,6 @@ I would like to change tidy way because sometimes the result is not suitable for
 I have some ideas for improving this plugin. If I have time, I try to update.
 
 <!-- [Donate](https://paypal.me/kazukd) -->
-[Donation by PayPal](https://www.paypal.com/donate/?hosted_button_id=3S63EHYTJTY7Y "PayPal")
+[Donation by PayPal](https://www.paypal.com/donate/?hosted_button_id=3S63EHYTJTY7Y "PayPal").
 Thank you.
 
