@@ -2,4 +2,5 @@
 # filename: FUNDING.YML
 github: kazukd
 patreon: kazukd
-custom: ['https://paypal.me/kazukd']
+<!-- custom: ['https://paypal.me/kazukd'] -->
+custom: [Donation by PayPal](https://www.paypal.com/donate/?hosted_button_id=3S63EHYTJTY7Y "PayPal")
